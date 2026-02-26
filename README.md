@@ -1,6 +1,4 @@
-# Mohammad Rafath Raza 
-<br>
-Data Analyst
+# Mohammad Rafath Raza · Data Analyst
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](your-linkedin)
 [![Email](https://img.shields.io/badge/Email-Contact-gray)](mailto:rafath@gmail.com)
