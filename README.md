@@ -1,7 +1,7 @@
 # Mohammad Rafath Raza · Data Analyst
 
-[![LinkedIn]([your-linkedin](https://www.linkedin.com/in/mohammad-rafath-raza-6b1030200/))
-[![Email](Rafathrana770@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](your-https://www.linkedin.com/in/mohammad-rafath-raza-6b1030200/)
+[![Email](https://img.shields.io/badge/Email-Contact-gray)](mailto:rafathrana770@gmail.com)
 
 **ExcelR-trained analyst specializing in revenue analytics, dashboard development, and SQL optimization for business insights.**
 
