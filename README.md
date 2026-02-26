@@ -1,16 +1,28 @@
-## Hi there 👋
+# Rafath · Data Analyst
 
-<!--
-**Rafath770/Rafath770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](your-linkedin)
+[![Email](https://img.shields.io/badge/Email-Contact-gray)](mailto:rafath@gmail.com)
 
-Here are some ideas to get you started:
+**ExcelR-trained analyst specializing in revenue analytics, dashboard development, and SQL optimization for business insights.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Expertise
+| Skill | Proficiency | Tools |
+|-------|-------------|-------|
+| SQL | Expert | MySQL, Complex Joins, Window Functions |
+| Power BI | Advanced | DAX, Dynamic Dashboards, Slicers |
+| Python | Intermediate | Pandas, Jupyter, EDA |
+| Excel | Expert | PivotTables, Power Query, VBA |
+
+## Professional Summary
+- **Revenue Analytics**: Built dashboards identifying ₹10L+ leakages in 10k+ hotel booking datasets
+- **SQL Optimization**: Duplicate detection, YoY growth calculations, market dependency risk analysis
+- **Visualization**: Power BI reports with interactive slicers for executive decision-making
+- **Current**: AI Variant Data Analyst Intern (Nov 2025–Present)
+
+## 📈 Portfolio Highlights
+- [SQL Revenue Analysis](your-sql-repo) - Duplicate detection + trend analysis
+- [Power BI Hotel Dashboard](your-pbi-repo) - Revenue leakage detection dashboard
+- [Market Risk Analysis](your-risk-repo) - OTA dependency risk assessment
+
+---
+*Currently hiring: Data Analyst roles (6.5-8 LPA) | Hyderabad*
